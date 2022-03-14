@@ -1,2 +1,3 @@
-# sw_carpentry_python_programming
-Python Programming Software Carpentry
+# README
+
+This repository contains all data files and analysis scripts for the Software Carpentry Python Programming tutorial.
